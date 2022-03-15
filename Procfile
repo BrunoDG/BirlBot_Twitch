@@ -1,0 +1,1 @@
+web: ts-node js/main.ts
